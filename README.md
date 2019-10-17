@@ -1,6 +1,6 @@
 # Análise de dados acerca da DIT (Divisão Internacional do Trabalho) colocando em conflito a visão heterodoxa e ortodoxa de economia
 
-O arquivo que contém o arquivo é o layout.ipynb
+O arquivo que contém o estudo é o layout.ipynb
 
 Se ao carregar o arquivo layout a mensagem "Sorry, something went wrong. Reload?" aparecer isso se deve pelo tamanho do arquivo. Caso esse for o caso copie o URL após acessar o aquirvo layout.ipynp e copie no site: https://nbviewer.jupyter.org/
 
